@@ -3,4 +3,4 @@ Repository for Java Labs
 
 By student FICT IO-13
 
-Shikalovskyi Mykhailo
+Shikalovskyi Mikhail
