@@ -1,2 +1,6 @@
 # Java2023
-Repository for Java Labs Student FICT Shikalovskyi Mikhailo
+Repository for Java Labs 
+
+By student FICT IO-13
+
+Shikalovskyi Mykhailo
